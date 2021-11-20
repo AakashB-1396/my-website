@@ -1,3 +1,3 @@
 # my-website
 
-This the readme file from example branch
+This the readme file from update readme branch
